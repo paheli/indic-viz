@@ -1,5 +1,5 @@
 # Brief Introduction
-### The Indic Language Visualization Tool helps to translate words (supported by multilingual word vectors) as well as visualize them in a 2 dimensional space (using t-SNE on the word vectors).
+### The Indic Language Visualization Tool helps to translate words (supported by multilingual word vectors) and visualize them in a 2 dimensional space (using t-SNE on the word vectors).
 ### Languages supported : English, Hindi, Bengali, Marathi, Gujrati and Tamil
 
 # Dependencies
@@ -31,10 +31,12 @@
 
 ## Output : 
 ### For Mode 1 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/13216636/34004836-004a2402-e11f-11e7-820e-a0c9ae0cd8a3.gif)
+![ezgif com-video-to-gif 3](https://user-images.githubusercontent.com/13216636/34007313-4f1650f8-e127-11e7-9bf4-6e2401102a2f.gif)
+
 
 ### For Mode 2 
-![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/13216636/34005227-445109f8-e120-11e7-9a24-62b840d4e2f0.gif)
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/13216636/34006401-34b0651c-e124-11e7-9e6d-9df6b21b5180.gif)
+
 
 - ### Window 1 : Translated Words
 - ### Window 2 : Visualization
