@@ -40,3 +40,6 @@
 
 - ### Window 1 : Translated Words
 - ### Window 2 : Visualization
+
+## Acknowledgements :
+We would like to thank Ashim Gupta (@ashim95) and Ravi Shankar for their help.
