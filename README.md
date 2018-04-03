@@ -11,7 +11,7 @@
 ### scipy, sklearn, cgitb, cgi, numpy, pandas, matplotlib, mpldatacursor, Tkinter, PIL
 
 # Data Download
-### Download the input data (word vectors & word similarity list) [here](cse.iitkgp.ac.in/~paheli.bh/vectors_and_sim.zip)
+### Download the input data (word vectors & word similarity list) [here](http://cse.iitkgp.ac.in/~paheli.bh/vectors_and_sim.zip)
 ### Unzip the file before executing the code
 
 # Usage
